@@ -9,5 +9,5 @@ comments: false
 ---
 
 
-* [IUST](http://iust.ac.ir)
-* [My master](http://sauleh.github.io)
+* [IUST](http://www.iust.ac.ir/)
+* [My master](http://www.sauleh.github.io)

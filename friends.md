@@ -9,9 +9,6 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* سيد اميرحسين ميرمحمدي
-* محمد اصوليان
-* عليرضا اسلامي خواه
-
-
-
+* Seyed Amirhossein Mirmohammadi
+* Mohammad Osoolian
+* Alireza Eslamikhah

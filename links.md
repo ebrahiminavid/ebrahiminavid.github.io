@@ -4,13 +4,10 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 11-11-2020
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
-
+* [IUST](http://iust.ac.ir)
+* [My master](http://sauleh.github.io)

@@ -4,14 +4,14 @@ author_profile: true
 permalink: /friends/
 title: My friends around the world
 tags: [friends]
-modified: 4-10-2019
+modified: 11-11-2020
 comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+* سيد اميرحسين ميرمحمدي
+* محمد اصوليان
+* عليرضا اسلامي خواه
 
 
 

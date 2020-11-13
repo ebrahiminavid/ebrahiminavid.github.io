@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Navid Ebrahimi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/8.jpg"
   bio              : I'm a computer engineering student at the IUST. My favorite field is programming and I love math. 
   location         : "Kashan"
   email            : n_ebrahimi@comp.iust.ac.ir

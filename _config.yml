@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "نويد ابراهيمي"
+title                    : "Navid Ebrahimi"
 title_separator          : "-"
 name                     : "Navid" 
 description              : "Welcome to my web site."
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Navid Ebrahimi"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm a computer engineering student at the IUST university. My favorite field is programming and I love math. 
+  bio              : I'm a computer engineering student at the IUST. My favorite field is programming and I love math. 
   location         : "Kashan"
   email            : n_ebrahimi@comp.iust.ac.ir
   twitter: 

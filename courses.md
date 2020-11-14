@@ -18,5 +18,5 @@ comments: false
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2020|Summer| **<a href="/ad97/">Study for Konkour</a>**         |
+|2020|Summer| **<a href="/ad97/">Studying for Konkour</a>**         |
 |----|------|--------------------------------|

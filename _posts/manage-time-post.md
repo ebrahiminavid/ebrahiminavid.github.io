@@ -3,7 +3,6 @@ layout: posts
 title: How to manage our time
 ---
 
-- Peter Norvig
 
 ![alt text](../assets/images/6.JPG "6")
 

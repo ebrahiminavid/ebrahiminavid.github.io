@@ -10,7 +10,7 @@ title: My Hackathon Project
 ">هکتان من</a>
 
 
-<a href="http://99521001.pythonanywhere.com/blog/"><img src="../assets/images/14.jpg"></a>
+<a href="http://99521001.pythonanywhere.com/blog/"><img src="../assets/images/14.JPG"></a>
 
 
 ---

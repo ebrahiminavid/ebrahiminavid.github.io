@@ -11,9 +11,9 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2020|Winter| **<a href="">C# Programming</a>**         |
+|2021|Winter| **<a href="">Cpp Programming</a>**         |
 |----|------|--------------------------------|
-|2020|Winter| **<a href="">Cpp Programming</a>**         |
+|2021|Winter| **<a href="">Cpp Programming</a>**         |
 |----|------|--------------------------------|
 |2020|Fall  | **<a href="/ds98/">C Programming</a>** |
 |----|------|--------------------------------|

@@ -8,14 +8,9 @@ modified: 11-11-2020
 comments: true
 ---
 
-### My best friends
-* Amirabbas Akhoondi
-* Amirreza Momeni
-* Mohammad Tahan
-
-
-
 ### Classmates
-* Seyed Amirhossein Mirmohammadi
+* Sina Alinezhad
 * Mohammad Osoolian
-* Alireza Eslamikhah
+* Farzan Rahmani
+* Aref Alijannezhad
+* Alireza bayatkhani

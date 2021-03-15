@@ -11,9 +11,15 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2020|Winter| **<a href="">C# Programming</a>**         |
 |----|------|--------------------------------|
-|2020|Fall  | **<a href="/ds98/">Python Programming</a>** |
+|2020|Winter| **<a href="">Cpp Programming</a>**         |
+|----|------|--------------------------------|
+|2020|Fall  | **<a href="/ds98/">C Programming</a>** |
+|----|------|--------------------------------|
+|2020|Fall  | **<a href=""> Python Programming</a>**         |
+|----|------|--------------------------------|
+|2020|Fall  | **<a href="/ds98/">Computer Programming Fundamentals</a>** |
 |----|------|--------------------------------|
 
 |           | **Past**                       |
